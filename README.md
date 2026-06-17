@@ -1,6 +1,6 @@
 # Soundcore Liberty 4 Pro (A3954) Protocol & Packet Analysis
 
-> [!INFO]
+> [!NOTE]
 >
 > Actual protocol fine-grain details and implementation can be found at [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30).
 >
