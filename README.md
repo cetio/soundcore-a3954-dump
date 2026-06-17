@@ -1,6 +1,12 @@
 # Soundcore Liberty 4 Pro (A3954) Protocol & Packet Analysis
 
-This workspace contains reverse-engineered state packets for the **Soundcore Liberty 4 Pro** (Model **A3954**), a premium set of noise-cancelling earbuds featuring a smart charging case with an integrated display and touch bar.
+> [!INFO]
+>
+> Actual protocol fine-grain details and implementation can be found at [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30).
+>
+> This repo ONLY hosts actual analysis, protocol layout, and packet dumps.
+
+This project hosts all of the dumped packets and their analysis for the **Soundcore Liberty 4 Pro** (model A3954). As new packets are found or reverse-engineered, they will be added here.
 
 All packets are captured as raw `u8` byte arrays with a length of **165 bytes** and are stored in `@/home/cet/Documents/Modeling/soundcore/initial.rs` and the subfiles inside `@/home/cet/Documents/Modeling/soundcore/anc/`.
 
