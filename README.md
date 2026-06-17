@@ -1,4 +1,4 @@
-# Soundcore Liberty 4 Pro (A3954) Protocol & Packet Analysis
+# Soundcore Liberty 4 Pro (A3954) Dump
 
 > [!NOTE]
 >
